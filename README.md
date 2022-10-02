@@ -3,18 +3,6 @@
 编程语言之设计模式-PHP版  
 设计模式不分语言,所有编程语言原理类似
 
-## 其他语言参考
-
-- [GO](https://github.com/senghoo/golang-design-pattern)
-- [C++](https://github.com/me115/design_patterns)
-- [PHP1](https://learnku.com/docs/php-design-patterns/2018)
-- [PHP2](https://learnku.com/docs/99-software-pattern)
-- [Java](https://github.com/youlookwhat/DesignPattern)
-- [Python](https://github.com/wklken/py-patterns)
-- [JavaScript](https://github.com/lxj/javascript.patterns)
-- [Swift-IOS](https://github.com/huang303513/Design-Pattern-For-iOS)
-- [Java-Android](https://github.com/simple-android-framework/android_design_patterns_analysis)
-
 
 
 ## 七大设计原则
@@ -70,6 +58,20 @@
 - 状态模式
 - 策略模式
 - 职责链模式
+
+## 其他语言参考
+
+- [GO](https://github.com/senghoo/golang-design-pattern)
+- [C++](https://github.com/me115/design_patterns)
+- [PHP1](https://learnku.com/docs/php-design-patterns/2018)
+- [PHP2](https://learnku.com/docs/99-software-pattern)
+- [Java](https://github.com/youlookwhat/DesignPattern)
+- [Python](https://github.com/wklken/py-patterns)
+- [JavaScript](https://github.com/lxj/javascript.patterns)
+- [Swift-IOS](https://github.com/huang303513/Design-Pattern-For-iOS)
+- [Java-Android](https://github.com/simple-android-framework/android_design_patterns_analysis)
+
+
 
 ## 参与贡献
 
