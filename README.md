@@ -21,7 +21,7 @@
 
 - [单例模式](./DesignPatterns/Creational/Singleton)
 - [原型模式](./DesignPatterns/Creational/Prototype)
-- 简单工厂模式
+- [简单工厂模式](./DesignPatterns/Creational/SimpleFactory)
 - 工厂方法模式
 - 抽象工厂模式
 
