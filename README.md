@@ -3,8 +3,6 @@
 编程语言之设计模式-PHP版  
 设计模式不分语言,所有编程语言原理类似
 
-
-
 ## 七大设计原则
 
 - 单一职责原则 (未完成)
@@ -19,9 +17,9 @@
 
 ### 创建型模式
 
-- [单例模式](./DesignPatterns/Creational/Singleton)
-- [原型模式](./DesignPatterns/Creational/Prototype)
-- [简单工厂模式](./DesignPatterns/Creational/SimpleFactory)
+- [单例模式](./src/DesignPatterns/Creational/Singleton)
+- [原型模式](./src/DesignPatterns/Creational/Prototype)
+- [简单工厂模式](./src/DesignPatterns/Creational/SimpleFactory)
 - 工厂方法模式
 - 抽象工厂模式
 
@@ -64,8 +62,6 @@
 - [JavaScript](https://github.com/lxj/javascript.patterns)
 - [Swift-IOS](https://github.com/huang303513/Design-Pattern-For-iOS)
 - [Java-Android](https://github.com/simple-android-framework/android_design_patterns_analysis)
-
-
 
 ## 参与贡献
 
