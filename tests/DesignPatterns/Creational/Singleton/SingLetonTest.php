@@ -1,7 +1,7 @@
 <?php
 
 
-namespace DesignPatterns\Creational\Singleton\Tests;
+namespace Tests\DesignPatterns\Creational\Singleton\Tests;
 
 use DesignPatterns\Creational\Singleton\Singleton;
 use PHPUnit\Framework\TestCase;

@@ -1,0 +1,38 @@
+{
+    "name": "zyan/design-patterns-php",
+    "description": "编程语言之设计模式-PHP版  ",
+    "keywords": [
+        "设计模式",
+        "php设计模式"
+    ],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "读心印",
+            "email": "839024615@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2|^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "DesignPatterns\\": "./src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "./tests/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5",
+        "friendsofphp/php-cs-fixer": "^2.18"
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit --colors=always --testdox",
+        "check-style": "php-cs-fixer fix --using-cache=no --diff --config=.php_cs --dry-run --ansi",
+        "fix-style": "php-cs-fixer fix --using-cache=no --config=.php_cs --ansi"
+    }
+}
